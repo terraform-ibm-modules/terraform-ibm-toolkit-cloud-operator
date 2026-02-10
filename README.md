@@ -1,5 +1,7 @@
 # IBM Cloud Operator terraform module
 
+:warning: This module is no longer maintained.
+
 This terraform module installs the IBM Cloud operator into a cluster.
 
 ## Software dependencies
